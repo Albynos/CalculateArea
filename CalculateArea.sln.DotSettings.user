@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=18bf831c_002Deaed_002D40f9_002Db168_002D3ae04745442f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from TriangleTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;56AE8790-4240-4979-89F4-A5A4F01F41D8/f:TriangleTests.cs&lt;/ProjectFile&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::56AE8790-4240-4979-89F4-A5A4F01F41D8::net5.0::UnitTests.CircleTests.CalculateArea_WithCorrectRadius&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::56AE8790-4240-4979-89F4-A5A4F01F41D8::net5.0::UnitTests.CircleTests.ThrowArgumentException_WhenZeroOrNegativeRadius&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::56AE8790-4240-4979-89F4-A5A4F01F41D8::net5.0::UnitTests.BaseShapeTests.CalculateArea_ThrowNotImplementedException_WhenUnknownShape&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;56AE8790-4240-4979-89F4-A5A4F01F41D8/f:UnknownShapeTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;56AE8790-4240-4979-89F4-A5A4F01F41D8/f:CircleTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
